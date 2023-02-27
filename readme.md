@@ -1,4 +1,5 @@
 Instructions for installing the extension:
+
     1. Clone this respository to your local computer download these files manually.
 
     2. Open Google Chrome and navigate to the Chrome Extensions. Make sure you have toggled developer mode. Now you will see option named as 'Load unpacked' on top left corner. click that option and select folder which has all the files which you have downloaded. As soon as you do this one more extension is added on your list of extensions named as 'Auto Connect for LinkedIn'.
